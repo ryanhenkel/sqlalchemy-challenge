@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+# I am submitting the first half of this assignment for partial credit, and will submit the rest later this week. I did not budget my time well enough between work and school this week, and fell a bit behind. 
